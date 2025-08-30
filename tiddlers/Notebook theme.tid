@@ -1,5 +1,5 @@
 created: 20201210210453740
-modified: 20201231135037214
+modified: 20250830182506430
 title: Notebook theme
 type: text/vnd.tiddlywiki
 
@@ -17,7 +17,7 @@ For all changes in the latest {{$:/themes/nico/notebook!!version}} release, see 
 
 !! Contributing
 
-The project is hosted on ~GitHub at https://github.com/NicolasPetton/notebook.
+The project is hosted on ~GitHub at https://github.com/CrossEye/Notebook.
 
 !! License
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tiddlywiki . --output docs --build",
-    "run": "tiddlywiki . --listen port=8080"
+    "start": "tiddlywiki . --listen port=8080"
   },
   "repository": {
     "type": "git",
