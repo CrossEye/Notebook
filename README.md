@@ -2,6 +2,8 @@
 
 Notebook is a clean, uncluttered theme for TiddlyWiki.
 
+It was forked from https://nicolas.petton.fr/tw/notebook.html.  Nicolas did all the work.  I'm just hosting a copy.
+
 - The theme is responsive and comes with mobile support through the included
   `notebook-mobile` plugin.
 - Notebook comes with 3 default colour palettes, a grey, beige and dark one. To switch
@@ -12,7 +14,7 @@ Notebook is a clean, uncluttered theme for TiddlyWiki.
 ## Demo & Screenshots
 
 A demo is available at
-[nicolas.petton.fr/tw/notebook.html](https://nicolas.petton.fr/tw/notebook.html).
+[https://crosseye.github.io/Notebook/](https://crosseye.github.io/Notebook/).
 
 
 <a href="./screenshots/grey.png"><img src="./screenshots/grey.png" width="24%" alt="Grey theme"/></a>
@@ -21,7 +23,7 @@ A demo is available at
 
 ## Installation
 
-See https://nicolas.petton.fr/tw/notebook.html
+See https://crosseye.github.io/Notebook
 
 ## License
 

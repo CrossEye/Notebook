@@ -1,0 +1,25 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "Notebook is a clean, uncluttered theme for TiddlyWiki.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tiddlywiki . --output docs --build",
+    "run": "tiddlywiki . --listen port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossEye/Notebook.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Petton",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CrossEye/Notebook/issues"
+  },
+  "homepage": "https://github.com/CrossEye/Notebook",
+  "dependencies": {
+    "tiddlywiki": "^5.3.8"
+  }
+}
